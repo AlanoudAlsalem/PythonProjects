@@ -8,5 +8,5 @@ Deriving functions to accurately model datasets is no easy feat.
 * The algorithm returns the optimal set of coordinates for manual derivation of the function according to the minimum absolute error.
 
 ## 🪼 Project #2 : RISC-V Customized Assembler
-My 5-stage pipelined [RISC-V processor](/RISCV-Processor) needed an assembler to translate assembly into machine code.
+My 5-stage pipelined [RISC-V processor](https://github.com/AlanoudAlsalem/RISCV-Processor.git) needed an assembler to translate assembly into machine code.
 * This customized [python assembler](/RISCV-assembler) does the job. 
